@@ -1,1 +1,4 @@
-# ai-voice-assistant
+a voice assistant using livekkit.
+
+
+note:still under development
